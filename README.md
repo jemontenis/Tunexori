@@ -21,15 +21,16 @@ Tunexori is a lightweight Windows internet radio player for direct stream URLs. 
   - Start the last selected station automatically when the app opens.
   - Check for updates through GitHub Releases.
 
-  - ## Technologies
+  ## Languages and Technologies
 
-  Tunexori is built with:
-
-  - C# / .NET 9 - core Windows desktop application and installer
-  - Windows Forms - native Windows window, tray integration, dialogs, and installer UI
-  - Microsoft Edge WebView2 - modern HTML/CSS/JavaScript interface inside the desktop app
-  - HTML / CSS / JavaScript - application interface and landing page
-  - NAudio - internet radio stream playback
+  - C#
+  - .NET 9
+  - Windows Forms
+  - WebView2
+  - HTML
+  - CSS
+  - JavaScript
+  - NAudio
 
   ## Requirements
 
