@@ -4,7 +4,6 @@ Tunexori is a lightweight Windows internet radio player for direct stream URLs. 
   tools such as an alarm, sleep timer, and track history.
   ## Screenshot
   ![Tunexori interface1](assets/tunexori-interface1.png)
-  ![Tunexori interface2](assets/tunexori-interface2.png)
   ## Features
 
   - Add and manage custom internet radio stream URLs.
